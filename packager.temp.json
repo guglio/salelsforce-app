@@ -1,0 +1,41 @@
+{
+  "applicationName": "CIAM",
+  "applicationId": "it.ciamcostruzioni.CIAM",
+  "bundleSeedId": "DE4BURP3E2",
+  "versionString": "1.062-32",
+  "versionCode": "1",
+  "icon": {
+    "57": "resources/icons/Icon.png",
+    "72": "resources/icons/Icon~ipad.png",
+    "114": "resources/icons/Icon@2x.png",
+    "144": "resources/icons/Icon~ipad@2x.png"
+  },
+  "inputPath": "/Users/guglio/Sites/app_CIAM/build/CIAM_app/package",
+  "outputPath": "/Users/guglio/Sites/app_CIAM/build/CIAM_app/native",
+  "configuration": "Debug",
+  "platform": "iOS",
+  "deviceType": "Universal",
+  "certificatePath": "../../CIAM.mobileprovision",
+  "certificateAlias": "",
+  "certificatePassword": "",
+  "provisionProfile": "",
+  "URLScheme": "",
+  "notificationConfiguration": "",
+  "sdkPath": "/path/to/android-sdk",
+  "androidAPILevel": "8",
+  "permissions": [
+    "INTERNET",
+    "ACCESS_NETWORK_STATE",
+    "CAMERA",
+    "VIBRATE",
+    "ACCESS_FINE_LOCATION",
+    "ACCESS_COARSE_LOCATION",
+    "CALL_PHONE"
+  ],
+  "orientations": [
+    "portrait",
+    "landscapeLeft",
+    "landscapeRight",
+    "portraitUpsideDown"
+  ]
+}

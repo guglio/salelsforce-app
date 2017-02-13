@@ -1,0 +1,15 @@
+.immagine_catalogo img{
+	width:30%;
+	height: auto;
+	float: left;
+	display:inline-block;
+	vertical-align:middle;
+	margin:1.66666666666667%;
+}
+.x-field .x-input-radio:checked::after, .x-field .x-input-checkbox:checked::after {
+background-color: #A5DD3B;
+}
+.cataloghi_img, .cataloghi_p{
+	display: inline;
+	vertical-align: middle;
+}

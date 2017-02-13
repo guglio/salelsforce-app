@@ -1,0 +1,1 @@
+{"id":"9c02ead1-b4d6-46dc-837f-33c8b6398ff5","js":[{"path":"cordova.js","type":"js"},{"path":"app.js","bundle":true,"update":"delta","type":"js"}],"css":[{"path":"resources/css/app.css","update":"delta","type":"css"},{"path":"style.css","update":"delta","type":"css"}]}
